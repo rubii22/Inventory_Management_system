@@ -1,0 +1,19 @@
+[
+    {
+        "type": "Grocery",
+        "product_id": "G101",
+        "name": "Milk",
+        "price": 120.0,
+        "quantity": 8,
+        "expiry_date": "22/8/2027"
+    },
+    {
+        "type": "Electronics",
+        "product_id": "E01",
+        "name": "Smartwatch",
+        "price": 500.0,
+        "quantity": 10,
+        "brand": "Samsung",
+        "warranty_years": 2
+    }
+]
